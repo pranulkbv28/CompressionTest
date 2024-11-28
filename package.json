@@ -1,0 +1,16 @@
+{
+  "name": "compressiontest",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "compression.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node compression.js"
+  },
+  "author": "pranulkbv28",
+  "license": "ISC",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
